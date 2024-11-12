@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="C">
+  <compilationSettings>
+    <includePath>
+      <includePathEntry value="$INCLUDE"/>
+    </includePath>
+  </compilationSettings>
+</module>
